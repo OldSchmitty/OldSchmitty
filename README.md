@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OldSchmitty
-- 👀 I’m interested in databases, webdevelopment, reverse engineering.
+- 👀 I’m interested in databases, web development, reverse engineering.
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on serverside applications.
 - 📫 How to reach me: marksoftware.dev
 
 <!---
