@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OldSchmitty
-- 👀 I’m interested in databases, web development, reverse engineering.
+- 👀 I’m interested in game development, databases, web development, reverse engineering.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on serverside applications.
-- 📫 How to reach me: marksoftware.dev
+- 📫 How to reach me: mark@marksoftware.dev
 
 <!---
 OldSchmitty/OldSchmitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
