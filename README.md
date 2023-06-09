@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OldSchmitty
 - 👀 I’m interested in game development, databases, web development, reverse engineering.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on serverside applications.
 - 📫 How to reach me: mark@marksoftware.dev
 
